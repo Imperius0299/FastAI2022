@@ -6,6 +6,8 @@ Watching the videos is one thing, but to truly understand, many more hours of pr
 
 So far, I have done the following lessons
 
+**Test**
+
 * [Lesson 1](/lesson01/lesson01.md)
 * [Lesson 2](/lesson02/lesson02.md)
 * [Lesson 3](/lesson03/lesson03.md)
